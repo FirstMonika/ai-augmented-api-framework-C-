@@ -1,0 +1,9 @@
+bin/
+obj/
+.vs/
+*.user
+reports/*
+!reports/.gitkeep
+TestResults/
+*.local.json
+.env

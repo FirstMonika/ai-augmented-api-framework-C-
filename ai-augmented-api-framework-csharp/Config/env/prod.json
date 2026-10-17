@@ -1,0 +1,5 @@
+{
+  "baseURL": "https://prod.example.com",
+  "auth": { "username": "admin", "password": "password123" },
+  "throttleMs": 500
+}
